@@ -1,4 +1,4 @@
-<p>im a little programmer </p>
+<h3>im a little programmer </h3>
 
 currently a university student (computer science) 🖥️
 im familiar with multiple programming languages cpp/python/js/bash
