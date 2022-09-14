@@ -1,4 +1,7 @@
-### Hi there 👋
+im a little programmer 
+currently a university student (computer science) 🖥️
+im familiar with multiple programming languages cpp/python/js/bash
+also a 3d artist 🧑‍🎨
 
 <!--
 **abdou33/abdou33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
