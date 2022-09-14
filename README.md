@@ -1,4 +1,5 @@
-im a little programmer 
+<p>im a little programmer </p>
+
 currently a university student (computer science) 🖥️
 im familiar with multiple programming languages cpp/python/js/bash
 also a 3d artist 🧑‍🎨
