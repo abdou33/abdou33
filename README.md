@@ -4,7 +4,7 @@
 </h2>
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 - I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Algeria <img src="https://user-images.githubusercontent.com/78037296/190032317-da73b5b1-6f2b-47dd-8fa2-1c2330ac56c5.png" width="22">
 
 - currently a university student (computer science) 🖥️
